@@ -1,0 +1,2 @@
+Agregamos un archivo JS que contiene una API para poder soportar 
+diferentes tipos de extensiones para imagenes
